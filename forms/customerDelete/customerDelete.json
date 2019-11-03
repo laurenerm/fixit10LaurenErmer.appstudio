@@ -16,24 +16,6 @@
         "forms", 
         "customerDelete", 
         "Elements", 
-        "txtCustomers.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "customerDelete", 
-        "Elements", 
-        "inptCustomer.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "customerDelete", 
-        "Elements", 
         "btnDelete.json"
       ]
     }, 
@@ -44,6 +26,15 @@
         "customerDelete", 
         "Elements", 
         "lblDelete.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "customerDelete", 
+        "Elements", 
+        "inptCustDel.json"
       ]
     }
   ], 
