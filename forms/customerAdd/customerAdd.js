@@ -1,4 +1,4 @@
-/*
+
 
 btnAdd.onclick=function(){
     let queryAdd = "INSERT INTO customer VALUES ('17','Jessie Antiques', '1113 F St', 'Omaha', 'NE', '68178');"
@@ -16,4 +16,3 @@ btnAdd.onclick=function(){
     }  
 
 }
-*/

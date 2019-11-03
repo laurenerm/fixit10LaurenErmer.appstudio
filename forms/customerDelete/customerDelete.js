@@ -1,4 +1,4 @@
-/*
+
 let allCustData = []
  
 btnDelete.onclick=function(){
@@ -40,5 +40,4 @@ customerDelete.onshow=function(){
         // transit error
         NSB.MsgBox("Error: " + req1.status);
     }  
-}
-*/
+

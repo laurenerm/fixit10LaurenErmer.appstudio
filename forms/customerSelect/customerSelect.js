@@ -1,4 +1,4 @@
-/*
+
 let stateCust = []
 
 btnCheck.onclick=function(){
@@ -21,5 +21,3 @@ btnCheck.onclick=function(){
         else 
         //transit error - Handle that with an error message.
         NSB.MsgBox("Error code: " + req1.status)
-}
-*/
