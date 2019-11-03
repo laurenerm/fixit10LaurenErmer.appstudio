@@ -14,27 +14,36 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerUpdate", 
         "Elements", 
-        "btnCheck.json"
+        "btnUpdate.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerUpdate", 
         "Elements", 
-        "lblResult.json"
+        "lblUpdate.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerUpdate", 
         "Elements", 
-        "inptState.json"
+        "inptName.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "customerUpdate", 
+        "Elements", 
+        "drpName.json"
       ]
     }
   ], 
@@ -44,7 +53,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "customerSelect", 
+  "id": "customerUpdate", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -52,7 +61,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "customerSelect.onshow()", 
+  "onshow": "customerUpdate.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
